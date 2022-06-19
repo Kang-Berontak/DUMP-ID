@@ -18,3 +18,6 @@ python Run.py
 - [ ] Dump ID Massal
 - [ ] Dump ID Followers
 - [ ] Dump ID Grub
+
+- [x] Username : Ganz
+- [x] Password : XD
